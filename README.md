@@ -7,6 +7,6 @@ using the Haversine formula.
 
 These are made using OneMap geocoding REST API calls and Python libraries Request and Pandas.
 
-You can directly use Excel to vlookup your HDB address dataset to obtain the distance. =vlookup( *Cell of interest* , *my .csv table with the full address without unit number*, the column number of the distance you want to obtain) 
+You can directly use Excel to vlookup your HDB address dataset to obtain the distance. =vlookup( *Cell of interest* , *my .csv table with the full address without unit number*, *the column number of the distance you want to obtain*) 
 
 Feel free to cite Teng Hau Wei 2023 in your citations. 
